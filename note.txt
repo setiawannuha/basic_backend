@@ -1,0 +1,12 @@
+url parameter
+localhost:3000/users/4
+4 = url parameter
+cuma ada satu url parameter
+
+query parameter
+localhost:3000/users?id=4&name=heru
+id=4 => query parameter
+name=heru => query parameter
+bisa lebih dari satu
+
+Dokumentasi API

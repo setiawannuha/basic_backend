@@ -1,0 +1,6 @@
+1. buat folder project
+2. npm init
+3. npm install express -> check dependencies di file package.json
+4. setup express
+5. npm install mysql2
+6. npm install body-parser
